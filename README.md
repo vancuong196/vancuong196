@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vancuong196
+- 👀 I’m interested in windows, linux application development using c#, c/c++ or java
+- 🌱 I’m currently learning linux kernel module development
+- 💞️ I’m looking to collaborate on linux kernel development
+- 📫 How to reach me vancuong196.work@gmail.com
